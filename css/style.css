@@ -6,7 +6,7 @@ body{
 
 .container{
     width: 100%;
-    height: 600px;
+    height: 570px;
     background-image: url("../img/bg.png");
     background-size: cover;
 }
@@ -79,4 +79,10 @@ body{
     font-size: 10px;
     color: white;
     border: none;
+}
+.model{
+    position: absolute;
+    left: 50%;
+    top: 120px;
+    height: 450px;
 }
